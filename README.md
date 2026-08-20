@@ -1,140 +1,226 @@
 # Hi 👋 I'm Shakib Hossain
 
-💻 Full-Stack MERN Developer
-📍 Ashulia, Savar, Dhaka, Bangladesh
-📧 [shakibhossain2020124@gmail.com](mailto:shakibhossain2020124@gmail.com)
+💻 **Full-Stack TypeScript Developer**  
+📍 Dhaka, Bangladesh  
+📧 **shakibhossain2020124@gmail.com**
 
 ---
 
 ## 🚀 About Me
 
-Detail-oriented **Full-Stack MERN Developer** specializing in modern JavaScript frameworks and scalable web solutions.
-Experienced in **React-based UI development, Node.js backend architecture, MongoDB database design, and REST API integration**.
+I'm a **Full-Stack Developer** focused on building modern web applications with **TypeScript, React, NestJS, PostgreSQL, Prisma, and Docker**.
 
-I enjoy building responsive applications, solving complex problems, and continuously improving performance and user experience.
+My primary focus is **backend engineering**, including REST API design, authentication, authorization, database architecture, modular application design, and scalable backend systems.
+
+I also have experience building React applications and enjoy creating clean, responsive user interfaces and integrating them with backend APIs.
+
+I'm currently building a full-stack application that brings these skills together while following production-oriented development practices.
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🌐 Web Development
+### Frontend
 
-* HTML5
-* CSS3
-* JavaScript
-* React.js
-* REST API Integration
-* Responsive UI Design
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React.js
+- Vite
+- Tailwind CSS
+- REST API Integration
+- Responsive UI
 
-### ⚙️ Backend & Database
+### Backend
 
-* Node.js
-* Express.js
-* MongoDB
-* SQL
+- Node.js
+- TypeScript
+- NestJS
+- REST APIs
+- Dependency Injection
+- Modular Architecture
+- Middleware
+- Guards
+- Pipes
+- Interceptors
+- Exception Filters
+- Custom Decorators
+- Metadata & Reflector
+- JWT Authentication
+- Cookie-Based Authentication
+- Role-Based Authorization
 
-### 📱 Mobile Development
+### Database
 
-* Flutter
-* Android Development
+- PostgreSQL
+- Prisma ORM
+- SQL
+- Database Modeling
+- Relationships
+- Foreign Keys
+- Migrations
+- Transactions
+- Indexing
+- Cascade Deletes
 
-### 🧰 Tools & Technologies
+### DevOps & Tools
 
-* Git & GitHub
-* VS Code
-* Android Studio
-* Postman / Browser Developer Tools
-* Debugging & Performance Optimization
+- Docker
+- Docker Compose
+- Git
+- GitHub
+- VS Code
+- Postman
+- Linux / CLI
+- Browser DevTools
+
+---
+
+## 🔐 Backend & Authentication
+
+Experience building NestJS backend systems with:
+
+- DTO-based request validation
+- Global and custom validation
+- Middleware
+- Guards
+- Interceptors
+- Exception filters
+- Custom parameter decorators
+- Dependency Injection
+- JWT authentication
+- HttpOnly cookie authentication
+- Access & refresh tokens
+- Refresh token rotation
+- Database-stored refresh tokens
+- Hashed refresh tokens
+- Multiple sessions/devices
+- Logout & logout-all
+- Role-based access control
+- Cascade deletion
+- Authentication request lifecycle
 
 ---
 
-## 📂 Projects
+## 📦 Current Full-Stack Project
 
-### 🎬 Movie Browsing App (React + API)
+### React + NestJS + Prisma + PostgreSQL + Docker
 
-* Developed a movie browsing frontend application using **React** and external APIs.
-* Implemented features including:
+Building a full-stack application using:
 
-  * API-based data fetching
-  * Movie search functionality
-  * Favorites management
-  * State handling using React Hooks
-* Focused on clean UI, performance, and smooth user interaction.
+**Frontend:** React + TypeScript + Vite + Tailwind CSS
+
+**Backend:** NestJS + TypeScript
+
+**Database:** PostgreSQL + Prisma
+
+**Infrastructure:** Docker + Docker Compose
+
+### Backend Features
+
+- User management
+- REST API
+- Authentication
+- Authorization
+- JWT access tokens
+- Database-backed refresh tokens
+- Refresh token rotation
+- Role-based access control
+- Request validation
+- Exception handling
+- Custom decorators
+- Modular architecture
+
+### Frontend Features
+
+- React component architecture
+- TypeScript
+- API integration
+- Forms and validation
+- Authentication state
+- Protected routes
+- Role-based UI
+- Loading and error states
+- Responsive UI
 
 ---
 
-### 📺 YouTube Clone (React.js)
+## 📂 Previous Projects
 
-* Built a simplified **YouTube-style frontend application** using React.
-* Implemented:
+### 🎬 Movie Browsing App — React + API
 
-  * Reusable components
-  * Basic routing
-  * Responsive UI layouts
-* Applied **component-based architecture and modern React practices**.
+- Built a movie browsing application using React and external APIs.
+- Implemented API data fetching, search, favorites, and React Hooks.
+- Focused on responsive UI and user experience.
 
----
+### 📺 YouTube Clone — React
 
-### 🌐 Frontend Web Development Projects
+- Built a simplified YouTube-style frontend.
+- Implemented reusable components, routing, and responsive layouts.
 
-* Developed multiple small-to-medium projects using **HTML5, CSS3, and JavaScript**.
-* Implemented:
+### 🌐 Frontend Projects
 
-  * DOM manipulation
-  * Form validation
-  * Dynamic content rendering
-  * Basic animations
-* Built a strong foundation in **semantic HTML, CSS Flexbox/Grid, and core JavaScript**.
+Built multiple projects using HTML, CSS, and JavaScript.
 
----
+Practiced:
+
+- DOM manipulation
+- Form validation
+- Dynamic rendering
+- Flexbox
+- CSS Grid
+- Responsive design
 
 ### 📱 Flutter Applications
 
-* Designed and developed several **Flutter applications** focusing on UI/UX.
-* Built responsive layouts using Flutter widgets.
-* Integrated databases for managing application data.
-* Practiced structured architecture and state management.
+- Developed several Flutter applications.
+- Built responsive interfaces using Flutter widgets.
+- Worked with databases and application state management.
 
 ---
 
 ## 🎓 Education
 
-| Degree | Institution                       | Board | Year | Result |
-| ------ | --------------------------------- | ----- | ---- | ------ |
-| SSC    | Green Leaf School                 | Dhaka | 2018 | 4.33   |
-| HSC    | Cambrian School & College         | Dhaka | 2020 | 4.50   |
-| BSc    | Daffodil International University | Dhaka | 2026 | 3.78   |
+| Degree | Institution | Year | Result |
+|---|---|---:|---:|
+| SSC | Green Leaf School | 2018 | 4.33 |
+| HSC | Cambrian School & College | 2020 | 4.50 |
+| BSc in Computer Science & Engineering | Daffodil International University | 2026 | 3.79 |
 
 ---
 
-## 💡 Soft Skills
+## 💡 Core Strengths
 
-* Problem Solving & Logical Thinking
-* Strong Learning Ability
-* Attention to Detail
-* Time Management
-* Communication Skills
-* Team Collaboration
-* Adaptability to New Technologies
-* Debugging & Troubleshooting Mindset
+- Backend Development
+- Full-Stack Development
+- REST API Design
+- Authentication & Authorization
+- Database Design
+- Object-Oriented Programming
+- Problem Solving
+- Software Architecture
+- Debugging & Troubleshooting
+- Clean & Maintainable Code
+- System Design Fundamentals
 
 ---
 
 ## 📊 GitHub Stats
 
-![Shakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakibhossain124\&show_icons=true)
+![Shakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakibhossain124&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakibhossain124\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakibhossain124&layout=compact)
 
 ---
 
 ## 🌐 Connect With Me
 
-* GitHub: https://github.com/shakibhossain124
-* LinkedIn: https://linkedin.com/in/shakibhossain124
-* Facebook: https://facebook.com/shakibhossain6486
-* Email: [shakibhossain2020124@gmail.com](mailto:shakibhossain2020124@gmail.com)
+- **GitHub:** https://github.com/shakibhossain124
+- **LinkedIn:** https://linkedin.com/in/shakibhossain124
+- **Facebook:** https://facebook.com/shakibhossain6486
+- **Email:** [shakibhossain2020124@gmail.com](mailto:shakibhossain2020124@gmail.com)
 
 ---
 
-⭐ *Always open to collaboration and new opportunities.*
+⭐ **Always learning, building, and improving.**
